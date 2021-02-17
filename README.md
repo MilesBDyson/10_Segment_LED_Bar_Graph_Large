@@ -2,4 +2,4 @@ This is a large 10 segment LED bar graph, oversized comapired to what you can bu
 
 3/4" wide by 2-7/16" tall
 
-![alt text](images/10_seg_bar_graph_large.png)
+![alt text](image/10_seg_bar_graph_large.png)
